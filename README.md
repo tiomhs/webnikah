@@ -1,2 +1,2 @@
 # webnikah
-Belom Responsive ya sayang
+https://tiomhs.github.io/webnikah.github.io/
