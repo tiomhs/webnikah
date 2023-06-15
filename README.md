@@ -1,2 +1,2 @@
 # webnikah
-https://tiomhs.github.io/webnikah.github.io/
+https://tiomhs.github.io/webnikah/
